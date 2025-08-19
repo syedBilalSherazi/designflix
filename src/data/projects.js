@@ -88,8 +88,8 @@ export const projects = [
     year: "2025",
     tags: ["Music", "Mobile", "Happiness"],
     // Note: filename has a space — either rename the file to Music-flow.png or URL-encode it:
-    cover: "/portfolio/st",
-    preview: "/portfolio/Music%20flow.jpg",
+    cover: "/portfolio/storyTelling.jpg",
+    preview: "/portfolio/storyTelling.jpg",
     caseLink: "#",
     description: "Make the kid fall in love with stories again"
   },
