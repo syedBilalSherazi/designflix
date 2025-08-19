@@ -71,4 +71,27 @@ export const projects = [
     caseLink: "#",
     description: "Neon-glow player, fluid spectrum animations, and mood playlists with tactile haptics."
   },
+  {
+    id: 8,
+    title: "Kid Monitoring Application",
+    year: "2025",
+    tags: ["Safety", "Mobile", "Security"],
+    // Note: filename has a space — either rename the file to Music-flow.png or URL-encode it:
+    cover: "/portfolio/kidmonitoring.jpg",
+    preview: "/portfolio/kidmonitoring.jpg",
+    caseLink: "#",
+    description: "Simple Ui to keep the user experience "
+  },
+  {
+    id: 7,
+    title: "Kid story Telling App Ui",
+    year: "2025",
+    tags: ["Music", "Mobile", "Happiness"],
+    // Note: filename has a space — either rename the file to Music-flow.png or URL-encode it:
+    cover: "/portfolio/st",
+    preview: "/portfolio/Music%20flow.jpg",
+    caseLink: "#",
+    description: "Make the kid fall in love with stories again"
+  },
+  
 ]
